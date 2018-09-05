@@ -39,4 +39,4 @@ Data provided by:
 capitalbikeshare.com
 divvybikes.com
 citibikenyc.com
-download the data.rar file and extract to same folder of bikeshare.py
+.#Download the data.rar file and extract to same folder of bikeshare.py
